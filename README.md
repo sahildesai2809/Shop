@@ -1,8 +1,8 @@
+#Shop
 
+#### Clicking on the Shop text brings you back to the main page
 
-### Clicking on the Shop text brings you back to the main page
-#### On first loading click on cart and then come back to the main page I faced this display problem and couldnt figure out the solution 
-
+>DEMO
 
 https://user-images.githubusercontent.com/71452591/127164348-0a8bbd14-3d1f-42ee-a4f7-ab00c8341e96.mp4
 
