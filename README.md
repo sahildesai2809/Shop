@@ -1,4 +1,4 @@
-#Shop
+# Shop
 
 #### Clicking on the Shop text brings you back to the main page
 
